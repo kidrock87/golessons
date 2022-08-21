@@ -15,5 +15,4 @@ func main() {
 
   lgh = math.Sqrt(sqr*4*pi)
   fmt.Println("Длина окружности равна: ",lgh)
-
 }
