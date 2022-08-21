@@ -13,4 +13,5 @@ func main() {
 
   sqr = wdh * hgh
   fmt.Println("Площадь равна : ",sqr)
+  
 }

@@ -10,4 +10,5 @@ func main() {
   fmt.Println("Сотен : ", dgt / 100)
   fmt.Println("Десятков : ", (dgt % 100) / 10)
   fmt.Println("Единиц : ", dgt % 10)
+  
 }
